@@ -3,5 +3,5 @@ layout: slide
 title: "Welcome to second slide!"
 ---
 
-何かを書く。
+** 書き変えてみよう **
 戻るには戻るボタンを使いましょう。
